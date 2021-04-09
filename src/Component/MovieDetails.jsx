@@ -21,7 +21,7 @@ const MovieDetails = (props) => {
             {
                 Movie &&
                 <div>
-                    <p>{Movie[0].name}</p>
+                    {/* <p>{Movie[0].name}</p> */}
                     {/* <img src={Movie[0].image.medium} alt=""></img>
                     <p>Name: {Movie[0].name}</p> */}
                     
